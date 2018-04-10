@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Lauriks Thomas
+ - Charlotte De Bruyne
 
-Gekozen Museum
+Gekozen Museum: S.M.A.K.
 --------------

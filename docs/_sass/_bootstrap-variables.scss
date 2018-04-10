@@ -10,13 +10,13 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
+$cyan: 	rgb(255, 192, 203);
 $primary: $cyan;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-$font-family-base: Merriweather, serif;
+$font-family: 'Montserrat', sans-serif;
