@@ -74,7 +74,7 @@ Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
     <tr>
       <th scope="row">14 april</th>
       <td>3:00</td>
-      <td>coderen journey maps en concept</td>
+      <td>coderen analyse,journey maps en concept</td>
     </tr>
     
   </tbody>
