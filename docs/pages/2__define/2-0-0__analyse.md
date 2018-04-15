@@ -6,7 +6,27 @@ published: true
 # ─────────────────────
 title: Analyse
 ---
-Persoon 1
+ 
+<div class=" float-left text-left col-12 ">
+            <p>Voor ons analyse hebben 2 verschillende dingen gedaan. Eerst en vooral hebben wij eens nagedacht over wat wij belangrijk vinden bij een museumbezoek en wat er aan ons bezoek een meerwaarde zou bieden. Wij vonden het wel gemakkelijk dat je al een deel thuis kunt doen zoals bijvoorbeeld je ticket bestellen. Zodat je minder tijd verliest bij het aankomen in het museum.</p>
+        </div>
+
+<div class=" float-right text-right col-12">
+ <p>Eerst en vooral hebben wij eens nagedacht over wat wij belangrijk vinden bij een museumbezoek en wat er aan ons bezoek een meerwaarde zou bieden. Wij vonden het wel gemakkelijk dat je al een deel thuis kunt doen zoals bijvoorbeeld je ticket bestellen. Zodat je minder tijd verliest bij het aankomen in het museum.</p>
+ </div>
+
+<div class=" float-left  text-left col-12">
+<p>Daarna zijn we naar het S.M.A.K. getrokken en daar hebben enkele mensen bevraagd over wat hun bezoek zou verbeteren en wat zij gemakkelijk zouden vinden. Na de ondervragingen hebben volgende dingen kunnen besluiten:
+- Niet te lange uitleg bij een werk.
+- Met een QR-code werken om zo via je GSM te zien wat er over het werk geschreven staat.
+- Oortjes meegeven van het museum om uitleg te beluisteren.</p>
+
+</div>
+
+
+
+
+<!--Persoon 1
 Leeftijd: 32 jaar
 Geslacht: Man
  
@@ -42,3 +62,4 @@ Gebruikt de audio graag, en vind het zeker niet erg om de info de lezen. Hij hee
 In het SMAK draait het meer om interpretatie, hij zou enkel uitleg wensen bij stukken waar het een meerwaarde biedt. Deze werken zijn al audiovisueel dus is er niet altijd info nodig.
  
 Hij zou de app downloaden en gebruiken maar enkel als deze niet bij alle werken uitleg geeft en ruimte geeft voor interpretatie.
+ -->
