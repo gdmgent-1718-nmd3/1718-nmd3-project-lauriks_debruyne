@@ -76,6 +76,10 @@ Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
       <td>3:00</td>
       <td>coderen analyse,journey maps en concept</td>
     </tr>
+          <th scope="row">16 april</th>
+      <td>2:00</td>
+      <td>Visuals </td>
+    </tr>  
     
   </tbody>
 </table>

@@ -69,6 +69,12 @@ title: Student 1
       <th scope="row">14 april</th>
       <td>1:00</td>
       <td>Coderen ideaboard</td>
-    </tr>    
+    </tr> 
+     <tr>
+      <th scope="row">16 april</th>
+      <td>2:00</td>
+      <td>Visuals </td>
+    </tr>  
+
   </tbody>
 </table>
