@@ -80,6 +80,14 @@ Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
       <td>2:00</td>
       <td>Visuals </td>
     </tr>  
+     <th scope="row">18 april</th>
+      <td>1:45</td>
+      <td>Visuals </td>
+    </tr> 
+         <th scope="row">23 april</th>
+      <td>2u</td>
+      <td> </td>
+    </tr> 
     
   </tbody>
 </table>
