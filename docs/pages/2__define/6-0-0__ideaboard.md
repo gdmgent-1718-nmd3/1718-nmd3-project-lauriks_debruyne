@@ -23,28 +23,28 @@ title: Ideaboard
                 <img class="ideaboard" src="../../assets/img/ideaboard_1.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_2.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_3.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_4.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_5.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_6.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_7.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_8.jpg" alt="">
             </div>
             <div class="col-sm-6 col-md-4">
-                <img src="" alt="">
+                <img class="ideaboard" src="../../assets/img/ideaboard_9.jpg" alt="">
             </div>
         </div>
     </div>

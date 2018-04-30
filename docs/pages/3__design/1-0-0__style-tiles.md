@@ -9,11 +9,22 @@ title: Style Tiles
 
 Gekozen
 -------
+alternatief 2
 
 Alternatief 1
+-------------
 <div class="col-12">
-        <img src="{{ site.baseurl }}/assets/images/Styletyle_char.png" class="img-fluid" alt="Responsive image">
+        <img src="{{ site.baseurl }}/assets/images/Styletile_char.png" class="styletile img-fluid" alt="Responsive image">
 </div>
 
 Alternatief 2
 -------------
+<div class="col-12">
+        <img src="{{ site.baseurl }}/assets/images/Styletile_thom1.jpg" class="styletile img-fluid" alt="Responsive image">
+</div>
+
+Alternatief 3
+-------------
+<div class="col-12">
+        <img src="{{ site.baseurl }}/assets/images/Styletile_thom2.jpg" class="styletile img-fluid" alt="Responsive image">
+</div>

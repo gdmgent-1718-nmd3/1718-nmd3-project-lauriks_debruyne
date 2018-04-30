@@ -9,6 +9,7 @@ title: Briefing
 
 Opdracht
 --------
+Een museum wil de bezoeker een nieuwe gebruikersbeleving geven door gebruik te maken van smartwatch en smartphone.
 
 Teamleden
 ---------
