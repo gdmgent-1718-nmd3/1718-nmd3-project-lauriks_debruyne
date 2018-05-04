@@ -88,6 +88,9 @@ Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
       <td>2u</td>
       <td> </td>
     </tr> 
-    
+    <th scope="row">30 april</th>
+      <td>4u</td>
+      <td>website en productiedossier in orde zetten</td>
+    </tr>
   </tbody>
 </table>
