@@ -10,11 +10,11 @@ title: Journey Maps
         <div class="row">
                 <h2> Journey map 1 </h2>
                 <div class="col-12">
-                        <img src="{{ site.baseurl }}/assets/images/Journeymap_1.png" class="styletile img-fluid" alt="Responsive image">
+                        <img src="{{ site.baseurl }}/assets/images/Journey map_1.png" class="styletile img-fluid" alt="Responsive image">
                 </div>
                 <h2> Journey map 2 </h2>
                 <div class="col-12">
-                        <img src="{{ site.baseurl }}/assets/images/Journeymap_2.png" class="styletile                   @img-fluid" alt="Responsive image">
+                        <img src="{{ site.baseurl }}/assets/images/Journey map_2.png" class="styletile              img-fluid" alt="Responsive image">
                 </div>
         </div>
 </div>
