@@ -7,22 +7,21 @@ published: true
 title: Concept
 ---
 
-<div class=" tekstblock float-left text-left col-8 ruimte_tekst">
-<p>Ons concept is dat je bij een museumbezoek aan het S.M.A.K. je opvoorhand je bezoek kunt plannen, je bezoek meer beleven en achteraf het nog eens herbeleven of delen.
+De Beleving
+-----------
+Bij ons staat de beleving van het museum centraal. Door informatie te integreren in de app kan je meer genieten van de werkstukken zonder folders en dergelijke mee te moeten nemen. Tevens houdt de app ook bij waar je bent, waar je bent geweest en waar je nog zeker naartoe moet. 
 
-De app dat wij creëren is voor het S.M.A.K. via deze app kan je, je ticket voor het museum op voorhand aankopen en hoef je dus niet aan te schuiven bij het binnenkomen.Ook kan je via de app werkstukken aanduiden die je er leuk uitzien zodat je deze zeker niet mist.</p>
-</div>
+De bezoeker kan op ***voorhand zijn of haar ticket kopen***. Zo hoeven ze niet aant schuiven aan de kassa.  
 
-<div class=" tekstblock float-right text-right col-8 ruimte_tekst">
-<p>Bij het binnenkomen van het museum wordt je route direct gestart door gebruik te maken van beacons. Deze zorgen ervoor dat je route wordt vastgelegd. Bij het binnenkomen hoef je enkel nog de QR-code te scannen die je kreeg voor het aankopen van een ticket. Dan start je route en je krijgt dan een melding dat je museumbezoek is gestart.</p>
-</div>
+Het Bezoek
+----------
+Bij het binnenkomen kunnen de bezoekers hun ticket scannen. Of een ticket kopen aan de kassa moesten ze er nog geen hebben aangeschaft. Dit ticket kan ook gebruikt worden om de app te gebruiken. 
+Wanneer hun ticket gescanned is is hun bezoek echt gestart. 
 
-<div class=" tekstblock float-left text-left col-8 ruimte_tekst">
-<p>
-Tijdens de route krijg je met je smartwatch alarmsignalen als je bij je getaggede werk bent. Dat alarm krijg je als je de kamer binnenloopt. Voor meer info te krijgen over het werk of de kunstenaar moet je je gsm even bovenhalen en scan je de QR-code onderaan het werk. Dan krijg je de optie of je de info wilt horen of lezen. Je kan het werkstuk dan ook flaggen. Ben je volledig rond, dan kom je terug aan de inkom en daar krijg je een melding dat je rond bent en dan krijg je verschillende opties. Zoals wil je iets drinken of je kan zien welke kamer je nog niet hebt gezien of zelf je route afronden. Zodra je buitenstapt stopt de app met je route te tracken. Dat is doormiddel van de beacons. </p>
-</div>
+Door gebruik te maken van beacons weet de app waar de bezoeker zich begeeft in het museum. De app zal een signaal geven op de smartwatch wanneer de bezoeker een nieuwe ruimte binnenkomt. Zo weten de bezoekers dat ze een nieuwe tentoonstelling beginnen. De ruimtes waar de bezoeker al is geweest zullen aangeduid worden op de plattegrond zodat ze zich gemakkelijk kunnen oriënteren. Door het gebruik van deze beacons weet de app ook hoeveel procent van het museum de bezoeker al heeft gezien. Denkt de bezoeker dat hij alles heeft gezien zal hij daarop gewezen worden wil hij het museum verlaten. 
 
+Bij de verschillende werkstukken zal een plaats voorzien zijn om met je smartwatch en NFC het werkstuk te scannen. Op dat moment kan je kiezen om de informatie over dat werkstuk te lezen of ernaar te luisteren als je een hoofdtelefoon hebt aangesloten aan je smartphone. Je hebt ook de mogelijkheid het werkstuk te 'liken'. Deze komt dan in de app bij favorieten te staan. 
 
-<div class=" tekstblock float-right text-right col-8 ruimte_tekst">
-<p>Eens je thuis bent en je nog even wilt terugdenken aan je bezoek kan dat. Je kan je geflaggede werken herbekijken en ook je route kan je zien. Je kan deze dan eventueel delen op sociale media.</p>
-</div>
+Buiten het museum
+-----------------
+De bezoeker kan op de app al zijn of haar bezoeken terugvinden samen met de werkstukken die ze hebben opgeslagen. Dit kunnen ze delen met vrienden en familie. 
