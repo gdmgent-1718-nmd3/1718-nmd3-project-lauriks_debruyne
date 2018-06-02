@@ -6,17 +6,27 @@ published: true
 # ─────────────────────
 title: Technische Analyse
 ---
-Wat zijn de mogelijkheden van een smartwatch en hoe kunnen we deze het beste combineren met het gebruik van een GSM?
+De voornaamste handelingen die gedaan worden met een smartwatch zijn swipen en drukken op knoppen (touch). Ze zijn zeker niet gemaakt om lange uitgebreide teksten op te lezen. Meer voor meldingen te ontvangen en kleine handelingen uit te voeren die de smartphone bedienen. Om gemakkelijk de werken te kunnen scannen heeft onze smartwatch zeker __*NFC*__ nodig. De ideale smartwatch vonden we in de nieuwe __*Garmin Vivoactive 3 HR*__. 
 
-Thomas is in het bezit van een smartwatch dus hij kon al inschatten hoe het in zijn werk ging. De voornaamste handelingen dat je doet is swipen tussen enkele dingen, een oproep opnemen of bericht laten openen. Een smartwatch is zeker niet gemaakt voor grote teksten op te lezen. Misschien enkele kleine woorden maar iconen zijn vooral het duidelijkst. Daarom zouden wij daar toch het meeste gebruik van willen maken bij onze app voor de smartwatch.
-
-Bij de smartphone kunnen we veel meer doen, dat is wel gemaakt voor grote teksten dus het zou goed zijn als we de belangrijkste kleine handelingen via de smartwatch kunnen doen en deze dan laten doorverwijzen naar de GSM voor verdere handelingen die meer tekst of handelingen vragen.   
+Op smartphones kunnen wel langere teksten gelezen worden. Om deze niet heel de tijd vast te moeten hebben zullen we de smartphone voornamelijk bedienen met de smartwatch zodat je hem enkel voor het nodige uit je zak moet halen. Naast informatie geven zal de smartphone ook dienen als beacon om de bezoeker te laten zien waar hij zich bevindt in het museum en of hij zeker in elke ruimte is geweest en niets heeft overgeslaan. We kozen bij de smartphone voor de __*Huawei P20*__. Een krachtige smartphone die op android loopt. Deze is ook in het bezit van __*NFC*__ voor moest de bezoeker geen smartwatch ter beschikking hebben. Tevens heeft deze smartphone ook een prachtige *LEICA* camera waarmee de bezoeker enkele mooie dagboekfoto's kan maken. 
 
 Smartwatch
 ----------
-
+Garmin Vivoactive HR
+- ingebouwde Hartslagmonitor
+- Android & iOS
+- Verlicht scherm
+- Touch Screen
+- GPS, Bluetooth, ANT+, *NFC*
 
 Smartphone
 ----------
 Huawei P20
-
+- Android 8.0
+- 5.84 inch
+- 2220 x 1080 pixels
+- 16 megapixel camera
+- 4GB werkgeheugen
+- 3000 mAh batterij
+- 4G netwerk
+- GPS, Bluetooth, NFC, WiFi, A-GPS

@@ -6,24 +6,18 @@ published: true
 # ─────────────────────
 title: Analyse
 ---
- 
-<div class=" tekstblock float-left text-left col-8 ">
-    <p>Voor ons analyse hebben 2 verschillende dingen gedaan. Eerst en vooral hebben wij eens nagedacht over wat wij belangrijk vinden bij een museumbezoek en wat er aan ons bezoek een meerwaarde zou bieden. Wij vonden het wel gemakkelijk dat je al een deel thuis kunt doen zoals bijvoorbeeld je ticket bestellen. Zodat je minder tijd verliest bij het aankomen in het museum.</p>
-</div>
 
-<div class=" tekstblock float-right text-right col-8">
-    <p>Eerst en vooral hebben wij eens nagedacht over wat wij belangrijk vinden bij een museumbezoek en wat er aan ons bezoek een meerwaarde zou bieden. Wij vonden het wel gemakkelijk dat je al een deel thuis kunt doen zoals bijvoorbeeld je ticket bestellen. Zodat je minder tijd verliest bij het aankomen in het museum.</p>
- </div>
+Twee belangrijke zaken die we hebben onderzocht waren wat we belangrijk vinden bij een museumbezoek en op welke manier we met een app een meerwaarde kunnen bieden aan dit bezoek. Om bijvoorbeeld tijd te besparen zijn we op het idee gekomen om gemakkelijk tickets via de app te bestellen zodat je bij het binnenkomen meteen aan je bezoek kan beginnen. 
 
-<div class=" tekstblock float-left  text-left col-8">
-    <p>Daarna zijn we naar het S.M.A.K. getrokken en daar hebben enkele mensen bevraagd over wat hun bezoek zou verbeteren en wat zij gemakkelijk zouden vinden. Na de ondervragingen hebben volgende dingen kunnen besluiten:
-    - Niet te lange uitleg bij een werk.
-    - Met een QR-code werken om zo via je GSM te zien wat er over het werk geschreven staat.
-    - Oortjes meegeven van het museum om uitleg te beluisteren.</p>
-</div>
+Interviews
+----------
+In het S.M.A.K. hebben we enkele bezoekers wat vragen gesteld over hun bezoek en wat dat bezoek zou kunnen verbeteren. We kunnen volgende dingen besluiten:
+- Niet iedereen heeft de behoefte om de uitleg te lezen, sommigen willen er ook naar luisteren zodat ze tegelijk naar het werk kunnen kijken. 
+- Mensen staan zeker open om een smartphone te gebruiken in het museum. 
 
-
-
+Verdere Interpretatie
+---------------------
+We concluderen dat niet elke bezoeker dezelfde wensen heeft. Sommige willen graag uitleg lezen, andere graag luisteren zodat ze ook naar het werk kunnen kijken. Een paar bezoekers willen zelfs het liefst geen uitleg zodat ze de werken zelf kunnen interpreteren. Voor deze bezoekers zullen we dus een uitdaging krijgen om met de app toch een meerwaarde te bieden voor hen. Dit kan volgens ons door hun bezoek te digitaliseren. Door bijvoorbeeld bepaalde werken op te slaan kunnen ze achteraf zien waar ze overal zijn geweest en welke werken hen het meeste aaspreken. Dit kunnen ze later dan ook delen met vrienden en familie zodat ze hier hun eigen interpretaties over kunnen delen.
 
 <!--Persoon 1
 Leeftijd: 32 jaar

@@ -11,7 +11,7 @@ De Beleving
 -----------
 Bij ons staat de beleving van het museum centraal. Door informatie te integreren in de app kan je meer genieten van de werkstukken zonder folders en dergelijke mee te moeten nemen. Tevens houdt de app ook bij waar je bent, waar je bent geweest en waar je nog zeker naartoe moet. 
 
-De bezoeker kan op ***voorhand zijn of haar ticket kopen***. Zo hoeven ze niet aant schuiven aan de kassa.  
+De bezoeker kan op **voorhand zijn of haar ticket kopen**. Zo hoeven ze niet aant schuiven aan de kassa.  
 
 Het Bezoek
 ----------
@@ -25,3 +25,5 @@ Bij de verschillende werkstukken zal een plaats voorzien zijn om met je smartwat
 Buiten het museum
 -----------------
 De bezoeker kan op de app al zijn of haar bezoeken terugvinden samen met de werkstukken die ze hebben opgeslagen. Dit kunnen ze delen met vrienden en familie. 
+
+
