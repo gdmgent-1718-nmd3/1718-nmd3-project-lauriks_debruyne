@@ -7,15 +7,9 @@ published: true
 title: Ideaboard
 ---
 
-<html lang="en">
+<img src="{{ site.baseurl }}/assets/images/ideabord.png" class="styletile img-fluid" alt="Responsive image">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ideaboard</title>
-</head>
-
+<!--
 <body>
     <div class="container">
         <div class="row">
@@ -49,4 +43,4 @@ title: Ideaboard
         </div>
     </div>
 </body>
-</html>
+-->
