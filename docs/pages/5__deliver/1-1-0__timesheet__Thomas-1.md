@@ -6,75 +6,22 @@ published: true
 # ─────────────────────
 title: Student 1
 ---
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">Datum</th>
-      <th scope="col">Tijd</th>
-      <th scope="col">Wat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">12 februari </th>
-      <td>1:30</td>
-      <td>Analyse en begin concept bedenken</td>
-    </tr>
-    <tr>
-      <th scope="row">18 februari</th>
-      <td>2:00</td>
-      <td>bevraging + museum bezoek</td>
-    </tr>
-    <tr>
-      <th scope="row">19 februari</th>
-      <td>1:30</td>
-      <td>Analyse verder uitwerken</td>
-    </tr>
-    <tr>
-      <th scope="row">23 februari</th>
-      <td>1:30</td>
-      <td>Persona’s uitwerken + eerste journey map</td>
-    </tr>
-     <tr>
-      <th scope="row">26 februari</th>
-      <td>1:30</td>
-      <td></td>
-    </tr>
-     <tr>
-      <th scope="row">12 maart</th>
-      <td>1:30</td>
-      <td>smartphone-app</td>
-    </tr>
-         <tr>
-      <th scope="row">16 maart</th>
-      <td>4:45</td>
-      <td>Wireflow & Paper Mockup</td>
-    </tr>
-             <tr>
-      <th scope="row">18 maart</th>
-      <td>1:00</td>
-      <td>2e journey map</td>
-    </tr>
-     <tr>
-      <th scope="row">10 april</th>
-      <td>3:30</td>
-      <td>uitwerken design & style tiles</td>
-    </tr>
-    <tr>
-      <th scope="row">14 april</th>
-      <td>2:45</td>
-      <td>2 styletiles</td>
-    </tr>
-        <tr>
-      <th scope="row">14 april</th>
-      <td>1:00</td>
-      <td>Coderen ideaboard</td>
-    </tr> 
-     <tr>
-      <th scope="row">16 april</th>
-      <td>2:00</td>
-      <td>Visuals </td>
-    </tr>  
 
-  </tbody>
-</table>
+Datum | Tijd| Wat
+-------|--------|-------
+-------|--------|-------
+12 februari  | 1:30  | Analyse en begin concept bedenken
+18 februari | 2:00  | bevraging + museum bezoek
+19 februari | 1:30 | Analyse verder uitwerken
+23 februari | 1:30 | Persona’s uitwerken + eerste journey map
+26 februari| 1:30  | .df
+12 maart  | 1:30  | smartphone-app
+16 maart | 4:45 | Wireflow & Paper Mockup
+18 maart | 1:00 | 2e journey map
+10 april | 3:30 | uitwerken design & style tiles
+14 april| 2:45 | 2 styletiles
+14 april| 1:00 |Coderen ideaboard
+16 april| 2:00|Visuals
+=======|========|=======
+Foot 1 | Foot 2 | Foot 3
+{:.table}  

@@ -6,91 +6,28 @@ published: true
 # ─────────────────────
 title: Student 2
 ---
-<!-- {%- comment %}
-Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
-{%- endcomment %}
-
-{% include timesheet.md timesheet=site.data.timesheet-2 %} -->
-
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">Datum</th>
-      <th scope="col">Tijd</th>
-      <th scope="col">Wat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">12 februari </th>
-      <td>1:30</td>
-      <td>Analyse en begin concept bedenken</td>
-    </tr>
-    <tr>
-      <th scope="row">18 februari</th>
-      <td>2:00</td>
-      <td>bevraging + museum bezoek</td>
-    </tr>
-    <tr>
-      <th scope="row">19 februari</th>
-      <td>1:30</td>
-      <td>Analyse verder uitwerken</td>
-    </tr>
-    <tr>
-      <th scope="row">23 februari</th>
-      <td>1:30</td>
-      <td>Persona’s uitwerken + eerste journey map</td>
-    </tr>
-     <tr>
-      <th scope="row">26 februari</th>
-      <td>1:30</td>
-      <td></td>
-    </tr>
-     <tr>
-      <th scope="row">12 maart</th>
-      <td>1:30</td>
-      <td>smartphone-app</td>
-    </tr>
-         <tr>
-      <th scope="row">16 maart</th>
-      <td>4:45</td>
-      <td>Wireflow & Paper Mockup</td>
-    </tr>
-             <tr>
-      <th scope="row">18 maart</th>
-      <td>1:00</td>
-      <td>2e journey map</td>
-    </tr>
-     <tr>
-      <th scope="row">10 april</th>
-      <td>3:30</td>
-      <td>uitwerken design & style tiles</td>
-    </tr>
-    <tr>
-      <th scope="row">13 april</th>
-      <td>3:00</td>
-      <td>Style tiles </td>
-    </tr>
-    <tr>
-      <th scope="row">14 april</th>
-      <td>3:00</td>
-      <td>coderen analyse,journey maps en concept</td>
-    </tr>
-          <th scope="row">16 april</th>
-      <td>2:00</td>
-      <td>Visuals </td>
-    </tr>  
-     <th scope="row">18 april</th>
-      <td>1:45</td>
-      <td>Visuals </td>
-    </tr> 
-         <th scope="row">23 april</th>
-      <td>2u</td>
-      <td> </td>
-    </tr> 
-    <th scope="row">30 april</th>
-      <td>4u</td>
-      <td>website en productiedossier in orde zetten</td>
-    </tr>
-  </tbody>
-</table>
+Datum | Tijd| Wat
+-------|--------|-------
+-------|--------|-------
+12 februari  | 1:30  | Analyse en begin concept bedenken
+18 februari | 2:00  | bevraging + museum bezoek
+19 februari | 1:30 | Analyse verder uitwerken
+23 februari | 1:30 | Persona’s uitwerken + eerste journey map
+26 februari| 1:30  | .df
+12 maart  | 1:30  | smartphone-app
+16 maart | 4:45 | Wireflow & Paper Mockup
+18 maart | 1:00 | 2e journey map
+10 april | 3:30 | uitwerken design & style tiles
+13 april | 3:00| style tiles
+14 april| 2:45 | 2 styletiles
+14 april| 3:00 |coderen analyse,journey maps en concept
+23 april| 2:00| .f
+30 april| 2:00|Website en productiedossier in orde zetten
+4 mei| 3:00| design herwerken + website
+7 mei| 2:00| feedback website + verder uitwerken
+16 mei| 3:30| feedback website + verder uitwerken
+1 juni| 2:30| pagina's in orde zetten
+2 juni| 4:00| planning in markdown, website afwerken
+=======|========|=======
+Foot 1 | Foot 2 | Foot 3
+{:.table}  

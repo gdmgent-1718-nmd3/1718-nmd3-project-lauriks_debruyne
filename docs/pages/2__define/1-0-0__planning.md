@@ -7,69 +7,24 @@ published: true
 title: Planning
 ---
 
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">Datum</th>
-      <th scope="col">Doel</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">12 februari </th>
-      <td>Briefing opdracht + eerste brainstorm</td>
-    </tr>
-    <tr>
-      <th scope="row">18 februari</th>
-      <td>museum bezoeken </td>
-    </tr>
-    <tr>
-      <th scope="row">2 maart</th>
-      <td>Elevator pitch afwerken</td>
-    </tr>
-    <tr>
-      <th scope="row">5 maart</th>
-      <td>Elevator pitch geven</td>
-    </tr>
-     <tr>
-      <th scope="row">16 maart</th>
-      <td>Prototype maken</td>
-    </tr>
-     <tr>
-      <th scope="row">19 maart</th>
-      <td>Smartwatch prototype feedback</td>
-    </tr>
-         <tr>
-      <th scope="row"> 11 april</th>
-      <td>Smartphone app prototype maken</td>
-    </tr>
-    <tr>
-      <th scope="row">16 april</th>
-      <td>Smartphone app feedback</td>
-    </tr>
-     <tr>
-      <th scope="row">30 april</th>
-      <td>Dossier in orde stellen + ideëen website verzamelen</td>
-    </tr>
-    <tr>
-      <th scope="row">4 mei</th>
-      <td>Visuals voor website af hebben</td>
-    </tr>
-    <tr>
-    <th scope="row">7 mei</th>
-      <td>Feedback website</td>
-    </tr>
-     <tr>
-    <th scope="row">21 mei</th>
-      <td>Dossier grote lijnen klaar, enkel nog details aanpassen </td>
-    </tr>
-     <tr>
-    <th scope="row">27 mei</th>
-      <td>Opdracht volledig af, klaar voor jury</td>
-    </tr>
-      <tr>
-    <th scope="row">28 mei - ...</th>
-      <td>Voorbereiden jury </td>
-    </tr>
-  </tbody>
-</table>
+Datum | Doel 
+-------|--------
+-------|--------
+12 februari  | Briefing opdracht + eerste brainstorm 
+18 februari | museum bezoeken
+2 maart  | Elevator pitch afwerken 
+5 maart| Elevator pitch geven 
+16 maart  | Prototype maken  
+19 maart | Smartwatch prototype feedback
+11 april| Smartphone app prototype maken
+16 april  | Smartphone app feedback 
+30 april|Dossier in orde stellen + ideëen website verzamelen
+4 mei  | Visuals voor website af hebben 
+7 mei |Feedback website 
+21 mei| Dossier grote lijnen klaar
+28 mei |laatste aanpassingen
+4 juni |Voorbereiden jury
+=======|========
+7 juni | 10:45 jury
+{:.table}  
+
