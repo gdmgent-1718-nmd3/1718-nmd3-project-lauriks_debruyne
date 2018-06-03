@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+<img src="{{ site.baseurl }}/assets/images/sitemap_website.png" class="styletile img-fluid" alt="Responsive image">
