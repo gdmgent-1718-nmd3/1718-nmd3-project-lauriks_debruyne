@@ -9,7 +9,9 @@ title: Style Tiles
 
 Gekozen
 -------
-alternatief 2
+<div class="col-12">
+        <img src="{{ site.baseurl }}/assets/images/Styletile_char3.png" class="styletile img-fluid" alt="Responsive image">
+</div>
 
 Alternatief 1
 -------------

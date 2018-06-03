@@ -30,5 +30,5 @@ Datum | Tijd| Wat
 1 juni| 2:30| pagina's in orde zetten
 2 juni| 4:00| planning in markdown, website afwerken
 =======|========|=======
-Foot 1 | Foot 2 | Foot 3
+3 juni | 4u| afwerking productiedossier
 {:.table}  
