@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<img src="{{ site.baseurl }}/assets/images/website.png" class="styletile img-fluid" alt="Responsive image">

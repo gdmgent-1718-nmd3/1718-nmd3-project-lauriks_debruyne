@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+<img src="{{ site.baseurl }}/assets/images/wireframes.png" class="styletile img-fluid" alt="Responsive image">
