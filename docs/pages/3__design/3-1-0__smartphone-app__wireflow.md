@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+
+<img src="{{ site.baseurl }}/assets/images/wireflowmobile.jpg" class="styletile img-fluid" alt="Responsive image">
