@@ -29,6 +29,7 @@ Datum | Tijd| Wat
 16 mei| 3:30| feedback website + verder uitwerken
 1 juni| 2:30| pagina's in orde zetten
 2 juni| 4:00| planning in markdown, website afwerken
-=======|========|=======
 3 juni | 4u| afwerking productiedossier
+=======|========|=======
+totaal| 50u 30min| 
 {:.table}  
